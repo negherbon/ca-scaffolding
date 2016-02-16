@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Scaffolding para melhorar a produtividade dos front-ends",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "controller": "node lib/create-controller.js"
   },
   "repository": {
     "type": "git",
@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/thiagogodoy/ca-scaffolding/issues"
   },
-  "homepage": "https://github.com/thiagogodoy/ca-scaffolding#readme"
+  "homepage": "https://github.com/thiagogodoy/ca-scaffolding#readme",
+  "devDependencies": {
+    "inquirer": "^0.12.0"
+  }
 }

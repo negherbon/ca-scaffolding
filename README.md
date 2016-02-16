@@ -12,7 +12,12 @@ Scaffolding para melhorar a produtividade dos front-ends
 
 ## Usage
 ``` bash
-npm run create-controller --path=negotiation/sale/contract --name=saleContractPreview
+npm run controller --path=negotiation/sale/contract --name=saleContractPreview
+```
+
+#Alias
+``` bash
+alias ca-scaffolding="npm run "
 ```
 
 ## Installation
