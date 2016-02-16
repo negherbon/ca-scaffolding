@@ -8,11 +8,11 @@ Scaffolding para melhorar a produtividade dos front-ends
 ## TODO
 
 * Criar filter + Test
-* Criar filter + Test
+* Criar directive + Test
 
 ## Usage
 ``` bash
-npm run controller --path=negotiation/sale/contract --name=saleContractPreview
+npm run controller --path=negotiation/sale/contract --name=saleContractHistoryList
 ```
 
 #Alias
