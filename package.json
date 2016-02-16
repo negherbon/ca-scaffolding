@@ -1,0 +1,17 @@
+{
+  "name": "ca-scaffolding",
+  "version": "0.0.1",
+  "description": "Scaffolding para melhorar a produtividade dos front-ends",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagogodoy/ca-scaffolding.git"
+  },
+  "author": "Thiago Godoy",
+  "bugs": {
+    "url": "https://github.com/thiagogodoy/ca-scaffolding/issues"
+  },
+  "homepage": "https://github.com/thiagogodoy/ca-scaffolding#readme"
+}
