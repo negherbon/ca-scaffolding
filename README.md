@@ -10,18 +10,7 @@ Scaffolding para melhorar a produtividade dos front-ends
 * Criar filter + Test
 * Criar directive + Test
 
-## Usage
+## Como utilizar
 ``` bash
-npm run controller --path=negotiation/sale/contract --name=saleContractHistoryList
-```
-
-#Alias
-``` bash
-alias ca-scaffolding="npm run "
-```
-
-## Installation
-
-``` bash
-  $ [sudo] npm install prompt
+npm run controller
 ```
