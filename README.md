@@ -7,7 +7,7 @@ Scaffolding para melhorar a produtividade dos front-ends
 
 ## TODO
 
-* Criar filter + Test
+* Separar a configuração dos arquivos de gerar controller e filter
 * Criar directive + Test
 
 ## Como utilizar
