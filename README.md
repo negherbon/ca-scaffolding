@@ -14,6 +14,8 @@ Criação de:
 * Melhorar o input inicial do config.js
 * Criar Directive + Test
 
+---
+
 ## Como utilizar
 
 ### Criar controller
