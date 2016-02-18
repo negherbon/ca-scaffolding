@@ -11,6 +11,11 @@ Scaffolding para melhorar a produtividade dos front-ends
 * Criar directive + Test
 
 ## Como utilizar
+# Criar controller
 ``` bash
 npm run controller
+```
+# Criar filtro
+``` bash
+npm run filter
 ```
