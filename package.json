@@ -4,7 +4,9 @@
   "description": "Scaffolding para melhorar a produtividade dos front-ends",
   "scripts": {
     "controller": "node lib/create-controller.js",
-    "filter": "node lib/create-filter.js"
+    "filter": "node lib/create-filter.js",
+    "main": "node lib/main.js"
+
   },
   "repository": {
     "type": "git",
