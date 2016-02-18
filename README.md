@@ -16,6 +16,13 @@ Criação de:
 
 ---
 
+## Instalação
+``` bash
+npm install
+```
+
+---
+
 ## Como utilizar
 
 ### Criar controller
