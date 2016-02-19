@@ -13,6 +13,7 @@ Criação de:
 * Separar a configuração dos arquivos para gerar controller e filter
 * Melhorar o input inicial do config.js
 * Criar Directive + Test
+* Quando criar o controller marcar se quer criar a view
 
 ---
 

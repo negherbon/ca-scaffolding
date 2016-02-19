@@ -5,6 +5,7 @@
   "scripts": {
     "controller": "node lib/create-controller.js",
     "filter": "node lib/create-filter.js",
+    "service": "node lib/create-service.js",
     "main": "node lib/main.js"
 
   },
