@@ -7,6 +7,7 @@ Criação de:
 
 *  Controller + Test
 *  Filter + Test
+*  Service + Test
 
 ## TODO
 
