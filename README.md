@@ -36,3 +36,8 @@ npm run controller
 ``` bash
 npm run filter
 ```
+
+### Criar Service
+``` bash
+npm run service
+```
