@@ -8,12 +8,10 @@ Criação de:
 *  Controller + Test
 *  Filter + Test
 *  Service + Test
+*  Directive + Test
 
 ## TODO
 
-* Separar a configuração dos arquivos para gerar controller e filter
-* Melhorar o input inicial do config.js
-* Criar Directive + Test
 * Quando criar o controller marcar se quer criar a view
 
 ---
@@ -30,6 +28,11 @@ npm install
 ### Criar controller
 ``` bash
 npm run controller
+```
+
+### Criar Diretiva
+``` bash
+npm run directive
 ```
 
 ### Criar filtro
