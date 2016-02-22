@@ -8,7 +8,7 @@ Criação de:
 *  Controller + Test
 *  Filter + Test
 *  Service + Test
-*  Directive + Test
+*  Directive + Test ( Somente os arquivos )
 
 ---
 
