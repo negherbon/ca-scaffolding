@@ -10,10 +10,6 @@ Criação de:
 *  Service + Test
 *  Directive + Test
 
-## TODO
-
-* Quando criar o controller marcar se quer criar a view
-
 ---
 
 ## Instalação
