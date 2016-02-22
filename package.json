@@ -5,7 +5,8 @@
   "scripts": {
     "controller": "node lib/main.js controller",
     "filter": "node lib/main.js filter",
-    "service": "node lib/main.js service"
+    "service": "node lib/main.js service",
+    "directive": "node lib/main.js directive"
   },
   "repository": {
     "type": "git",
